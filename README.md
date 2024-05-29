@@ -1,2 +1,1 @@
-# Customer-Churn-Prediction
-hi hello
+# Customer-Churn-Prediction model
